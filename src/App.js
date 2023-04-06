@@ -1,24 +1,31 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import About from './components/About'
+import Testimonials from './components/Testimonials'
+import Demo from './components/Demo'
+import Footer from './components/Footer'
+import 'bootstrap/dist/js/bootstrap.min.js';
+import 'jquery/dist/jquery.min.js';
+import 'popper.js/dist/umd/popper.min.js';
+import Imageslider from './components/Imageslider';
+import Products from './components/Products';
+import Product from './components/Product';
+
 
 function App() {
-  return (
+  return (<>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+
+     <Navbar>
+
+   
+     </Navbar>
+     <Hero/>
+        <Testimonials/>
+        <Footer/>
+      </div>
+    </>
   );
 }
 
