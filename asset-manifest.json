@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ravinder-spor/static/css/main.4348bba6.css",
+    "main.js": "/ravinder-spor/static/js/main.fe04253c.js",
+    "static/js/787.f7216c08.chunk.js": "/ravinder-spor/static/js/787.f7216c08.chunk.js",
+    "static/media/john-doe.png": "/ravinder-spor/static/media/john-doe.e4675f127b56d41e5c8a.png",
+    "static/media/banner1.jpg": "/ravinder-spor/static/media/banner1.e842a8483b035214c61e.jpg",
+    "static/media/logo.png": "/ravinder-spor/static/media/logo.014fa922a0314801d50d.png",
+    "static/media/slick.svg": "/ravinder-spor/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ravinder-spor/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ravinder-spor/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ravinder-spor/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ravinder-spor/index.html",
+    "main.4348bba6.css.map": "/ravinder-spor/static/css/main.4348bba6.css.map",
+    "main.fe04253c.js.map": "/ravinder-spor/static/js/main.fe04253c.js.map",
+    "787.f7216c08.chunk.js.map": "/ravinder-spor/static/js/787.f7216c08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4348bba6.css",
+    "static/js/main.fe04253c.js"
+  ]
+}
